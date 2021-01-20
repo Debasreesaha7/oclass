@@ -1,0 +1,252 @@
+.left-nav{
+  padding: 5px 40px;
+}
+.padding-left
+{
+  padding-left:15px;
+}
+.navbar-color
+{
+  text-decoration: none;
+  color:orange;
+  font-size: 18px;
+}
+body{
+  background-color:darkblue  !important;
+}
+.navbar-brand
+{
+  color: orange !important;
+    font-size: 36px  !important;
+    padding-left: 30px  !important;
+    font-weight: 600  !important;
+}
+.banner-section{
+  position:static;
+
+}
+.auto-container
+{
+  position: relative;
+}
+h1
+{
+  color: white !important;
+  font-weight: 400!important;
+  font-size: 49px!important;
+}
+.btn{
+height: 50px!important;
+border-radius: 25px!important;
+width: 180px!important;
+}
+.image
+{
+  margin-top:50px;
+}
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+}
+.input-group {
+  width: auto;
+}
+#Search{
+  background:orange;
+  border-radius: 0px !important;
+}
+.svg1
+{
+  width:70%;
+}
+h2
+{
+  font-size: 40px !important;
+    padding-left: 80px !important;
+    color: #124505 !important;
+    padding-top: 70px!important;
+    font-weight: 800!important;
+}
+.para{
+  font-size: 16px;
+    padding-left: 30px;
+    padding-top: 30px;
+    color:grey;
+}
+
+.heading
+{
+  text-decoration: none;
+  color:#08168a !important;
+  font-size: 24px !important;
+  padding-left: 30px !important;
+  font-weight:500;
+  padding-top: 25px;
+}
+.last{
+  display: inline-flex;
+
+}
+.paragraph{
+  font-size: 17px;
+  padding-top: 20px;
+}
+.parallax {
+  background-image:url("/home/debasree/newf/bootcamp/html/organisation.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+    justify-content: center;
+}
+.fa{
+  width: 100px;
+    /* height: 476px; */
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding-right: 32px;
+}
+.digit{
+  padding-top: 10px !important;
+  font-size:60px!important;
+  font-weight:700!important;
+  padding-bottom:25px!important;
+}
+.hover-btn{
+  background-color: white!important;
+}
+.hover-btn:hover{
+background: orange!important;
+color:white!important;
+}
+.hover-btn2
+{
+  background: orange !important;
+  color:black!important;
+}
+.hover-btn2:hover{
+  background: white!important;
+  color:orange!important;
+}
+.hover-btn3
+{
+  border:none!important;
+  background: white!important;
+  color:black!important;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.10);
+}
+.hover-btn3:hover
+{
+  border:none!important;
+  background:navy!important;
+  color:white!important;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.10);
+}
+.hover-btn4
+{
+  border:none!important;
+  background: orange!important;
+  color:white!important;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.10);
+}
+.hover-btn4:hover
+{
+  border:none!important;
+  background: navy!important;
+  color:white!important;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.10);
+}
+.hover-btn5
+{
+  border:none!important;
+  background: orange!important;
+  color:white!important;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.10);
+  margin-left: 90px!important;
+  width: 120px!important;
+  height: 35px!important;
+  margin-top: 20px!important;
+  margin-bottom:15px!important;
+}
+.hover-btn5:hover
+{
+  border:none!important;
+  background: navy!important;
+  color:white!important;
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.10);
+  margin-left: 90px!important;
+  width: 120px!important;
+  height: 35px!important;
+  margin-top: 20px!important;
+  margin-bottom: 15px!important;
+}
+.count
+{
+  margin-top: 0;
+  padding-left: 25px;
+  font-weight: 500;;
+}
+.last{
+    display: flex;
+    align-items: baseline;
+     }
+.svg{
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 18px;
+    }
+.icon-image
+{
+  background: pink;
+    border-radius: 50%;
+    display: block;
+    width: 100px;
+    position: relative;
+    height: 100px;
+    margin: 36px auto 5px;
+}
+.blog-button{
+  background: orange!important;
+  color:white!important;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.blog-button:hover{
+  background:navy!important;
+  color:white!important;
+}
+.a-theory:hover{
+ color: orange!important;
+}
+.start-btn
+{
+  background: white!important;
+  color:orange!important;
+}
+.start-btn:hover
+{
+  background-color:orange!important;
+  color:white!important;
+}
+.start-btn2
+{
+  background: orange!important;
+  color:white!important;
+}
+.start-btn2:hover
+{
+  background-color:white!important;
+  color:orange!important;
+}
+.navbar-color:hover{
+  color:white;
+}
+
+
