@@ -29,6 +29,9 @@ body{
 {
   position: relative;
 }
+#heading{
+  text-align:center;
+}
 h1
 {
   color: white !important;
@@ -95,7 +98,7 @@ h2
   padding-top: 20px;
 }
 .parallax {
-  background-image:url("/home/debasree/newf/bootcamp/html/organisation.jpg");
+  background-image:url("/home/debasree/newf/oclass/html/organisation.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -248,5 +251,14 @@ color:white!important;
 .navbar-color:hover{
   color:white;
 }
-
+.card-row{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+@media (max-width: 978px) {
+	.row {
+	 padding:0;
+	 border:none!important;
+	}
+      
 
