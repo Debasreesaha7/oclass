@@ -1,5 +1,5 @@
 .left-nav{
-  padding: 5px 40px;
+  padd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ng: 5px 40px;
 }
 .padding-left
 {
@@ -13,7 +13,7 @@
 }
 .colour{
   background-color:darkblue  !important;
-  padding-bottom:100px
+  padding-bottom:30px;
 }
 .navbar-brand
 {
@@ -88,7 +88,7 @@ h2
   font-size: 24px !important;
   padding-left: 30px !important;
   font-weight:500;
-  padding-top: 25px;
+  /* padding-top: 25px; */
 }
 .last{
   display: inline-flex;
@@ -99,7 +99,7 @@ h2
   padding-top: 20px;
 }
 .parallax {
-  background-image:url("/home/debasree/newf/oclass/html/organisation.jpg");
+  background-image:url("../image/organisation.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
