@@ -1,6 +1,6 @@
-.left-nav{
+/* .left-nav{
   padd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ng: 5px 40px;
-}
+} */
 .padding-left
 {
   padding-left:15px;
@@ -123,13 +123,23 @@ h2
   font-weight:700!important;
   padding-bottom:25px!important;
 }
+.hover-btn0
+{
+  background: orange !important;
+  color:white!important;
+}
+.hover-btn0:hover{
+  background: navy!important;
+  color:white!important;
+}
+ 
 .hover-btn{
   background-color: white!important;
 }
 .hover-btn:hover{
 background: orange!important;
 color:white!important;
-}
+} 
 .hover-btn2
 {
   background: orange !important;
@@ -256,7 +266,52 @@ color:white!important;
   padding-left: 20px;
   padding-right: 10px;
 }
+/* .circular-image
+{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+} */
 
+/* .img-container
+    {
+      display: flex;
+      justify-content: center;
+      } */
+/* .height-fix > img {
+  height: 800px;
+} */
 
-      
-
+@media only screen and (max-device-width:991px) 
+{
+  .height-fix > img
+  {
+    height: 500px;
+  }
+   .content
+  {
+    height:300px;
+  }
+  .heading{
+    font-size: 50px!important;
+  }
+  .para{
+    font-size: 30px!important;
+  }
+  .height-fix{
+    height: 850px!important;
+  }
+  .count{
+    font-size: 30px!important;
+  }
+  .media-para
+  {
+    font-size: 26px!important;
+  }
+}
